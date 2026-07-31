@@ -1,6 +1,20 @@
-# Perry
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PerryLiving/.github/main/profile/assets/perry-icon-1024.png" alt="Perry" width="104">
+</p>
 
-**Perimenopause, tracked. Privacy, non-negotiable.**
+<h1 align="center">Perry</h1>
+
+<p align="center"><strong>Perimenopause, tracked. Privacy, non-negotiable.</strong></p>
+
+<p align="center">
+  <a href="https://perry.living">perry.living</a> ·
+  <a href="https://perry.living/faq/">FAQ</a> ·
+  <a href="https://perry.living/track/">Guides</a> ·
+  <a href="https://perry.living/privacy/">Privacy</a> ·
+  <a href="https://perry.living/#waitlist">Join the waitlist</a>
+</p>
+
+---
 
 Perry is a perimenopause and HRT tracking app for iPhone. It records symptoms,
 medications and hormone replacement therapy schedules, cycles, sleep, and labs —
@@ -9,9 +23,15 @@ that into something you can hand to a clinician.
 
 No VC money. No ads. No wellness cosplay.
 
-→ **[perry.living](https://perry.living)**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PerryLiving/.github/main/profile/assets/01-know-your-own-body.png" alt="Home — your body at a glance" width="19%">
+  <img src="https://raw.githubusercontent.com/PerryLiving/.github/main/profile/assets/02-the-pattern-appears.png" alt="Insights — symptom patterns across your cycle" width="19%">
+  <img src="https://raw.githubusercontent.com/PerryLiving/.github/main/profile/assets/03-your-hrt-on-cue.png" alt="Daily plan — HRT doses due" width="19%">
+  <img src="https://raw.githubusercontent.com/PerryLiving/.github/main/profile/assets/04-read-the-night.png" alt="Sleep — last night's shape" width="19%">
+  <img src="https://raw.githubusercontent.com/PerryLiving/.github/main/profile/assets/05-on-your-wrist.png" alt="Apple Watch — mark a hot flash" width="19%">
+</p>
 
----
+<p align="center"><sub>Screens show stylized demo data.</sub></p>
 
 ## What it tracks
 
